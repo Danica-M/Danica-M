@@ -17,11 +17,6 @@
   </a>
 </div>
 
-###
-
-<img src="https://raw.githubusercontent.com/Danica-M/Danica-M/output/snake.svg" alt="Snake animation" />
-
-###
 
 <br clear="both">
 
