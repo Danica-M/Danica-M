@@ -2,30 +2,25 @@
 
 ###
 
-<h4 align="center">If you prefer a single syllable name you can also call me "Dan".<br>I'm a recent graduate in computing systems, and I'm super jazzed about all things software development, cloud computing, and data science. Right now, my GitHub page is a work in progress as I reorganize and tidy up my projects that i worked on during my college journey.</h4>
+<h4 align="center">If you prefer a single-syllable name you can also call me "Dan".<br>I'm a recent graduate in computing systems, and I'm super jazzed about all things software development, cloud computing, and data science. Right now, my GitHub page is a work in progress as I reorganize and tidy up the projects that I worked on during my college journey.</h4>
 
 ###
-<h5 align="center">Socials</h5>
-
-###
-<br clear="both">
 
 <div align="center">
+  <h2>Socials:</h2>
   <a href="https://nz.linkedin.com/in/danica-montano" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
   <a href="https://discordapp.com/users/1083942493017612348" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
+    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
   </a>
 </div>
 
 ###
-<h5 align="center">Tech Stack</h5>
 
-###
-<br clear="both">
 
 <div align="center">
+  <h2>Tech Stack:</h2>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
@@ -53,8 +48,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" height="40" alt="anaconda logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="40" alt="androidstudio logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="40" alt="canva logo"  />
   <img width="12" />
