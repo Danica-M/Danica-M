@@ -5,7 +5,9 @@
 <h4 align="center">If you prefer a single syllable name you can also call me "Dan".<br>I'm a recent graduate in computing systems, and I'm super jazzed about all things software development, cloud computing, and data science. Right now, my GitHub page is a work in progress as I reorganize and tidy up my projects that i worked on during my college journey.</h4>
 
 ###
+<h5 align="center">Socials</h5>
 
+###
 <br clear="both">
 
 <div align="center">
@@ -17,7 +19,10 @@
   </a>
 </div>
 
+###
+<h5 align="center">Tech Stack</h5>
 
+###
 <br clear="both">
 
 <div align="center">
